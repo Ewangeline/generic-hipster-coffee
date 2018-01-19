@@ -109,9 +109,12 @@ ul {
   text-align: left;
   color: #000000;
   color: var(--black);
-<<<<<<< Updated upstream
   margin-bottom: 1rem;
 }
-=======
+.nav-link {
+  color: rgba(0, 0, 0, 0.5);
 }
->>>>>>> Stashed changes
+
+header {
+  background-color: #f8f9fa;
+}
