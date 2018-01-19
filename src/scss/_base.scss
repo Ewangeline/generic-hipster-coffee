@@ -1,5 +1,5 @@
 .COFFEE {
-  font-family:  'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2.5rem;
   font-weight: 300;
   font-style: normal;
@@ -12,7 +12,7 @@
 }
 
 .We-work-with-specialty-coffee-from-current-crops-which-is-caref {
-  font-family:  'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.25rem;
   font-weight: 300;
   font-style: normal;
@@ -25,7 +25,7 @@
 }
 
 .You-can-currently-buy-these-beans-in-350-g-bags {
-  font-family:  'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   font-weight: 300;
   font-style: normal;
@@ -37,8 +37,12 @@
   color: var(--black);
 }
 
+.coffees {
+  background-color: #f8f9fa;
+}
+
 .coffees .card-header {
-  font-family:  'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.75rem;
   font-weight: 300;
   font-style: normal;
@@ -51,7 +55,7 @@
 }
 
 .coffees p {
-  font-family:  'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   font-weight: 300;
   font-style: italic;
@@ -64,7 +68,7 @@
 }
 
 .coffees h4 {
-  font-family:  'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   font-weight: 300;
   font-style: normal;
@@ -76,12 +80,9 @@
   color: var(--black);
 }
 
-
-
 ul {
   list-style: none;
   font-family: 'Roboto', sans-serif;
-
 }
 
 .header-two {
@@ -109,9 +110,13 @@ ul {
   text-align: left;
   color: #000000;
   color: var(--black);
-<<<<<<< Updated upstream
   margin-bottom: 1rem;
 }
-=======
+
+.nav-link {
+  color: rgba(0, 0, 0, 0.5);
 }
->>>>>>> Stashed changes
+
+header {
+  background-color: #f8f9fa;
+}
