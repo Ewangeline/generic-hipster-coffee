@@ -1,5 +1,5 @@
 .COFFEE {
-  font-family: Roboto;
+  font-family:  'Roboto', sans-serif;
   font-size: 2.5rem;
   font-weight: 300;
   font-style: normal;
@@ -12,7 +12,7 @@
 }
 
 .We-work-with-specialty-coffee-from-current-crops-which-is-caref {
-  font-family: Roboto;
+  font-family:  'Roboto', sans-serif;
   font-size: 1.25rem;
   font-weight: 300;
   font-style: normal;
@@ -25,7 +25,7 @@
 }
 
 .You-can-currently-buy-these-beans-in-350-g-bags {
-  font-family: Roboto;
+  font-family:  'Roboto', sans-serif;
   font-size: 1rem;
   font-weight: 300;
   font-style: normal;
@@ -38,7 +38,7 @@
 }
 
 .coffees .card-header {
-  font-family: Roboto;
+  font-family:  'Roboto', sans-serif;
   font-size: 1.75rem;
   font-weight: 300;
   font-style: normal;
@@ -51,7 +51,7 @@
 }
 
 .coffees p {
-  font-family: Roboto;
+  font-family:  'Roboto', sans-serif;
   font-size: 1rem;
   font-weight: 300;
   font-style: italic;
@@ -64,7 +64,7 @@
 }
 
 .coffees h4 {
-  font-family: Roboto;
+  font-family:  'Roboto', sans-serif;
   font-size: 1rem;
   font-weight: 300;
   font-style: normal;
@@ -76,43 +76,12 @@
   color: var(--black);
 }
 
-.navbar{
-  background-color: #f8f9fa;
 
-}
-.nav-link{
-  color: rgba(0, 0, 0, 0.5);
-}
-
-h1 {
-  height: 30px;
-  font-family: 'Roboto', sans-serif;
-  font-size: 40px;
-  font-weight: 300;
-  font-style: normal;
-  font-stretch: condensed;
-  line-height: normal;
-  letter-spacing: 2.8px;
-  text-align: left;
-  color: #000000;
-  color: var(--black);
-}
-
-li {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
-  font-weight: 300;
-  font-style: normal;
-  font-stretch: condensed;
-  line-height: 2.75;
-  letter-spacing: normal;
-  text-align: justify;
-  color: #000000;
-  color: var(--black);
-}
 
 ul {
   list-style: none;
+  font-family: 'Roboto', sans-serif;
+
 }
 
 .header-two {
@@ -126,6 +95,7 @@ ul {
   text-align: left;
   color: #000000;
   color: var(--black);
+  margin-bottom: 1rem;
 }
 
 .header-three {
@@ -139,4 +109,5 @@ ul {
   text-align: left;
   color: #000000;
   color: var(--black);
+  margin-bottom: 1rem;
 }
