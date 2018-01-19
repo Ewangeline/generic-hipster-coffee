@@ -1,76 +1,134 @@
-
 .COFFEE {
-    font-family: Roboto;
-    font-size: 2.5rem;
-    font-weight: 300;
-    font-style: normal;
-    font-stretch: condensed;
-    line-height: normal;
-    letter-spacing: 2.8px;
-    text-align: left;
-    color: #000000;
-    color: var(--black);
-  }
-  .We-work-with-specialty-coffee-from-current-crops-which-is-caref {
-    font-family: Roboto;
-    font-size: 1.25rem;
-    font-weight: 300;
-    font-style: normal;
-    font-stretch: condensed;
-    line-height: 1.8;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000000;
-    color: var(--black);
-  }
+  font-family: Roboto;
+  font-size: 2.5rem;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: normal;
+  letter-spacing: 2.8px;
+  text-align: left;
+  color: #000000;
+  color: var(--black);
+}
 
-  .You-can-currently-buy-these-beans-in-350-g-bags {
-    font-family: Roboto;
-    font-size: 1rem;
-    font-weight: 300;
-    font-style: normal;
-    font-stretch: condensed;
-    line-height: 2.25;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000000;
-    color: var(--black);
-  }
+.We-work-with-specialty-coffee-from-current-crops-which-is-caref {
+  font-family: Roboto;
+  font-size: 1.25rem;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: 1.8;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+  color: var(--black);
+}
 
-  .coffees .card-header{
-        font-family: Roboto;
-        font-size: 1.75rem;
-        font-weight: 300;
-        font-style: normal;
-        font-stretch: condensed;
-        line-height: normal;
-        letter-spacing: 2px;
-        text-align: left;
-        color: #000000;
-        color: var(--black);
-      }
+.You-can-currently-buy-these-beans-in-350-g-bags {
+  font-family: Roboto;
+  font-size: 1rem;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+  color: var(--black);
+}
 
-      .coffees p{
-        font-family: Roboto;
-        font-size: 1rem;
-        font-weight: 300;
-        font-style: italic;
-        font-stretch: condensed;
-        line-height: 2.25;
-        letter-spacing: normal;
-        text-align: left;
-        color: #000000;
-        color: var(--black);
-      }
-      .coffees h4{
-      font-family: Roboto;
-      font-size: 1rem;
-      font-weight: 300;
-      font-style: normal;
-      font-stretch: condensed;
-      line-height: 1.75;
-      letter-spacing: normal;
-      text-align: left;
-      color: #000000;
-      color: var(--black);
-    }
+.coffees .card-header {
+  font-family: Roboto;
+  font-size: 1.75rem;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: normal;
+  letter-spacing: 2px;
+  text-align: left;
+  color: #000000;
+  color: var(--black);
+}
+
+.coffees p {
+  font-family: Roboto;
+  font-size: 1rem;
+  font-weight: 300;
+  font-style: italic;
+  font-stretch: condensed;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+  color: var(--black);
+}
+
+.coffees h4 {
+  font-family: Roboto;
+  font-size: 1rem;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+  color: var(--black);
+}
+
+h1 {
+  height: 30px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: normal;
+  letter-spacing: 2.8px;
+  text-align: left;
+  color: #000000;
+  color: var(--black);
+}
+
+li {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: 2.75;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #000000;
+  color: var(--black);
+}
+
+ul {
+  list-style: none;
+}
+
+.header-two {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: normal;
+  letter-spacing: 2.2px;
+  text-align: left;
+  color: #000000;
+  color: var(--black);
+}
+
+.header-three {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: normal;
+  letter-spacing: 2.2px;
+  text-align: left;
+  color: #000000;
+  color: var(--black);
+}
